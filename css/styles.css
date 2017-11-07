@@ -39,3 +39,12 @@ img {width: 80vw;
 a {
     padding: 0px 10px 0px 0px
 }
+
+a:hover {
+    color:cornflowerblue;
+    text-decoration: underline;
+    text-decoration-color: cornflowerblue;
+}
+
+
+
